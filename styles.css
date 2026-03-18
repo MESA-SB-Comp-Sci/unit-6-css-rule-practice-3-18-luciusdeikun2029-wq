@@ -16,3 +16,7 @@ footer {
     color: white; 
     text-align: center;
 }
+
+body {
+    background-image: url(/assets/ocean-view-by-steve-gribble.jpg);
+}
